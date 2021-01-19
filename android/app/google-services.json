@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "933402115655",
+    "project_id": "plantpetaler-1e916",
+    "storage_bucket": "plantpetaler-1e916.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933402115655:android:1aa23a8610031527c57b62",
+        "android_client_info": {
+          "package_name": "com.example.plantpetalers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933402115655-ldv88ac555kahjpnq50973921h4ags2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj79fc2GK_4cl_r7C7RGm7cvNRraIdZI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933402115655-ldv88ac555kahjpnq50973921h4ags2s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "933402115655-6bkvpa89a3vemfaoijsa3qov74cgc7h3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.plantpetalers"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
